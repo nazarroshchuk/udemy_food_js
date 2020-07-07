@@ -1,2 +1,4 @@
 /node_modules
 /js/old_education_files
+.jshintrc
+.gitignore
